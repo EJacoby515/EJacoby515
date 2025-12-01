@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Animated Typing -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A5+Firefighter+turned+Software+Engineer+%F0%9F%94%A5;%F0%9F%9A%80+Building+the+Future+of+Fintech+%F0%9F%9A%80;%F0%9F%92%A1+Turning+Ideas+into+Scalable+Solutions+%F0%9F%92%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A5+Firefighter+/+Software+Engineer+%F0%9F%94%A5;%F0%9F%9A%80+Building+the+Future+of+Fintech+%F0%9F%9A%80;%F0%9F%92%A1+Turning+Ideas+into+Scalable+Solutions+%F0%9F%92%A1" alt="Typing SVG" /></a>
 
   <!-- Social Badges with Hover Effects -->
   <p>
