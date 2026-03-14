@@ -41,7 +41,7 @@
 ```typescript
 const eric = {
   role: "Software Engineer Lead @ PushFi",
-  location: "Westlake, FL 🌴",
+  location: "Miami, FL 🌴",
   background: "Firefighter/Paramedic → Tech",
   
   currentFocus: [
